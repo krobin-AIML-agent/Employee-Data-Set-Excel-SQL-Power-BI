@@ -1,8 +1,7 @@
 # Employee Data Analytics – Power BI Dashboard
 
 ## 📌 Overview
-This repository contains an **Employee Dataset** (`Employee Dataset.csv`) and an interactive **Power BI dashboard** (`Employee Data BI Dashboard.pbix`).  
-The dashboard provides insights into workforce demographics, compensation, and organizational structure across departments and business units.
+This repository contains an **Employee Dataset** (`Employee Dataset.csv`) and an interactive **Power BI dashboard** (`Employee Data BI Dashboard.pbix`). The dashboard provides insights into workforce demographics, compensation, and organizational structure across departments and business units.
 
 ---
 
