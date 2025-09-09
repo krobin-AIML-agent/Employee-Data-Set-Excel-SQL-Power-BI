@@ -5,12 +5,12 @@ Queries are organized by difficulty: **Basic**, **Intermediate**, and **Advanced
 
 ---
 
-## 📂 Basic Queries
+## Basic Queries
 - Department Salary Index
 - Employee Information Preview
 - US Employee Lookup
 
-## 📂 Intermediate Queries
+## Intermediate Queries
 - Above-Average Departmental Earners
 - Analysts in Three-Letter Cities
 - Department Headcount Analysis
@@ -21,6 +21,6 @@ Queries are organized by difficulty: **Basic**, **Intermediate**, and **Advanced
 - Employees in Cities Starting with 'D'
 - Male Employee Filter
 
-## 📂 Advanced Queries
+## Advanced Queries
 - Highest Paid Employee Per Department
 
